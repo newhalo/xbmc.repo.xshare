@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-__author__ = 'thaitni'
+__author__ = 'newhalo'
 
 from .utils import xsearch, xread, xrw, filetime
 from .kodi import mess, log
